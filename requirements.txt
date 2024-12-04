@@ -1,0 +1,6 @@
+pydantic-ai==0.0.9
+yfinance==0.2.50
+gradio==5.7.1
+python-dotenv==1.0.1
+plotly==5.19.0
+nest-asyncio==1.6.0
